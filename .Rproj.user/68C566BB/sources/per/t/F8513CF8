@@ -1,0 +1,27 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1582636582056.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1500782638",
+    "id" : "F8513CF8",
+    "lastKnownWriteTime" : 1582907358,
+    "last_content_update" : 1582907358145,
+    "path" : "~/PhD/LabMeetingPresentations/LabMeetingPresentations/2019_2020/bioinf_general_data_graphs.R",
+    "project_path" : "bioinf_general_data_graphs.R",
+    "properties" : {
+        "cursorPosition" : "73,0",
+        "marks" : "<:2,0\n>:102,8",
+        "scrollLine" : "50",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

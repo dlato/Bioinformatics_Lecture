@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1582637438700.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2474015153",
+    "id" : "B3B8EA08",
+    "lastKnownWriteTime" : 1582907202,
+    "last_content_update" : 1582907202,
+    "path" : "~/PhD/LabMeetingPresentations/LabMeetingPresentations/Spatial_genome_trends_graphs/spatial_genome_trends.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "53,54",
+        "marks" : "<:0,0\n>:0,0",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
