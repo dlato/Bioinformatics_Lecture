@@ -143,7 +143,8 @@ essential <- ggplot(data=df_neg, aes(x=x, y=rev_y, group=1)) +
         axis.ticks.y=element_blank(),
 )
 
-exp_results <- ggplot(data=df_neg, aes(x=x, y=rev_y, group=1)) +
+rev_y_subs <- c(5.5,5,4.5,4,3.5,3,2.5,2,1.5,1)
+exp_results <- ggplot(data=df_neg, aes(x=x, y=rev_y_subs, group=1)) +
   geom_line(color="#087E8B", size=4)+
   geom_line(color="#087E8B", size=2)+
   theme(plot.title = element_text(hjust = 0.5), 
@@ -159,7 +160,8 @@ pdf("exp_results_graph.pdf")
 expression
 dev.off()
 
-sub_results <- ggplot(data=df_neg, aes(x=x, y=rev_y, group=1)) +
+
+sub_results <- ggplot(data=df_neg, aes(x=x, y=rev_y_subs, group=1)) +
   geom_line(color="#087E8B", size=4)+
   geom_line(color="#087E8B", size=2)+
   theme(plot.title = element_text(hjust = 0.5), 
