@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.3.4)  9 MAR 2020 22:49
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.3.4)  9 MAR 2020 22:52
 entering extended mode
 **./General_Bioinformatics_info_lecture.tex
 (General_Bioinformatics_info_lecture.tex
@@ -2068,7 +2068,10 @@ File: ./figs/6_strep_strains_mauve_aln_pic_13Jan20.jpg Graphic file (type jpg)
 <use ./figs/6_strep_strains_mauve_aln_pic_13Jan20.jpg>
 Package pdftex.def Info: ./figs/6_strep_strains_mauve_aln_pic_13Jan20.jpg  used
  on input line 677.
-(pdftex.def)             Requested size: 215.10196pt x 204.9455pt.
+(pdftex.def)             Requested size: 245.83282pt x 234.2298pt.
+
+Overfull \vbox (14.74257pt too high) detected at line 677
+ []
 
 [41
 
@@ -2202,10 +2205,10 @@ Package rerunfilecheck Info: File `General_Bioinformatics_info_lecture.out' has
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 42070 strings out of 481311
- 981376 string characters out of 2908124
+ 42068 strings out of 481311
+ 981360 string characters out of 2908124
  1280915 words of memory out of 3000000
- 56604 multiletter control sequences out of 15000+200000
+ 56602 multiletter control sequences out of 15000+200000
  620416 words of font info for 106 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  65i,14n,108p,1642b,692s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -2223,7 +2226,7 @@ iKTeX 2.9/fonts/type1/public/lm/lmsso10.pfb><C:/Users/synch/AppData/Local/Progr
 ams/MiKTeX 2.9/fonts/type1/public/lm/lmsso8.pfb><C:/Users/synch/AppData/Local/P
 rograms/MiKTeX 2.9/fonts/type1/public/lm/lmsy10.pfb><C:/Users/synch/AppData/Loc
 al/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmtt10.pfb>
-Output written on General_Bioinformatics_info_lecture.pdf (47 pages, 4349816 by
+Output written on General_Bioinformatics_info_lecture.pdf (47 pages, 4350201 by
 tes).
 PDF statistics:
  607 PDF objects out of 1000 (max. 8388607)
