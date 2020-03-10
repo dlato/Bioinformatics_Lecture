@@ -1,4 +1,4 @@
-setwd("C:/Users/synch/Documents/PhD/LabMeetingPresentations/LabMeetingPresentations/Spatial_genome_trends_graphs/")
+setwd("C:/Users/synch/Documents/PhD/Bioinformatics_Lecture/Spatial_genome_trends_graphs/")
 ##### fake graphs for spatial genomic trends####
 library(ggplot2)
 require(ggplot2)
@@ -60,8 +60,8 @@ mut_rate <- ggplot(data=df_pos, aes(x=x, y=x, group=1)) +
 #  geom_point(pch=".", color="#FE5F55") +
   theme(plot.title = element_text(hjust = 0.5), 
         text = element_text(size=30)) +
-  ggtitle(expression(paste(underline("Mutation Rate")))) +
-  labs(x = "", y = "Mutation Rate") 
+  ggtitle(expression(paste(underline("Substitutions")))) +
+  labs(x = "", y = "Substitutions") 
 #  labs(x = "Genomic Position", y = "Mutation Rate") +
 #  theme(axis.text.x=element_blank(),
 #        axis.ticks.x=element_blank(),
