@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.3.4)  10 MAR 2020 20:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.3.4)  11 MAR 2020 18:04
 entering extended mode
 **./General_Bioinformatics_info_lecture.tex
 (General_Bioinformatics_info_lecture.tex
@@ -2109,15 +2109,12 @@ File: ./Spatial_genome_trends_graphs/mut_graph.pdf Graphic file (type pdf)
 Package pdftex.def Info: ./Spatial_genome_trends_graphs/mut_graph.pdf  used on 
 input line 733.
 (pdftex.def)             Requested size: 99.86826pt x 99.86392pt.
-<./Spatial_genome_trends_graphs/exp_results_graph.pdf, id=517, 505.89pt x 505.8
-9pt>
-File: ./Spatial_genome_trends_graphs/exp_results_graph.pdf Graphic file (type p
-df)
-<use ./Spatial_genome_trends_graphs/exp_results_graph.pdf>
-Package pdftex.def Info: ./Spatial_genome_trends_graphs/exp_results_graph.pdf  
-used on input line 733.
+File: ./Spatial_genome_trends_graphs/exp_graph.pdf Graphic file (type pdf)
+<use ./Spatial_genome_trends_graphs/exp_graph.pdf>
+Package pdftex.def Info: ./Spatial_genome_trends_graphs/exp_graph.pdf  used on 
+input line 733.
 (pdftex.def)             Requested size: 99.86826pt x 99.86392pt.
-<./Spatial_genome_trends_graphs/sub_results_graph.pdf, id=518, 505.89pt x 505.8
+<./Spatial_genome_trends_graphs/sub_results_graph.pdf, id=517, 505.89pt x 505.8
 9pt>
 File: ./Spatial_genome_trends_graphs/sub_results_graph.pdf Graphic file (type p
 df)
@@ -2125,6 +2122,8 @@ df)
 Package pdftex.def Info: ./Spatial_genome_trends_graphs/sub_results_graph.pdf  
 used on input line 733.
 (pdftex.def)             Requested size: 99.86826pt x 99.86392pt.
+<./Spatial_genome_trends_graphs/exp_results_graph.pdf, id=518, 505.89pt x 505.8
+9pt>
 File: ./Spatial_genome_trends_graphs/exp_results_graph.pdf Graphic file (type p
 df)
 <use ./Spatial_genome_trends_graphs/exp_results_graph.pdf>
@@ -2137,18 +2136,17 @@ Overfull \vbox (0.96976pt too high) detected at line 733
 
 [44
 
- <./Spatial_genome_trends_graphs/exp_results_graph.pdf> <./Spatial_genome_trend
-s_graphs/sub_results_graph.pdf>]
+ <./Spatial_genome_trends_graphs/sub_results_graph.pdf> <./Spatial_genome_trend
+s_graphs/exp_results_graph.pdf>]
 File: ./Spatial_genome_trends_graphs/mut_graph.pdf Graphic file (type pdf)
 <use ./Spatial_genome_trends_graphs/mut_graph.pdf>
 Package pdftex.def Info: ./Spatial_genome_trends_graphs/mut_graph.pdf  used on 
 input line 733.
 (pdftex.def)             Requested size: 99.86826pt x 99.86392pt.
-File: ./Spatial_genome_trends_graphs/exp_results_graph.pdf Graphic file (type p
-df)
-<use ./Spatial_genome_trends_graphs/exp_results_graph.pdf>
-Package pdftex.def Info: ./Spatial_genome_trends_graphs/exp_results_graph.pdf  
-used on input line 733.
+File: ./Spatial_genome_trends_graphs/exp_graph.pdf Graphic file (type pdf)
+<use ./Spatial_genome_trends_graphs/exp_graph.pdf>
+Package pdftex.def Info: ./Spatial_genome_trends_graphs/exp_graph.pdf  used on 
+input line 733.
 (pdftex.def)             Requested size: 99.86826pt x 99.86392pt.
 File: ./Spatial_genome_trends_graphs/sub_results_graph.pdf Graphic file (type p
 df)
@@ -2343,7 +2341,7 @@ iKTeX 2.9/fonts/type1/public/lm/lmsso10.pfb><C:/Users/synch/AppData/Local/Progr
 ams/MiKTeX 2.9/fonts/type1/public/lm/lmsso8.pfb><C:/Users/synch/AppData/Local/P
 rograms/MiKTeX 2.9/fonts/type1/public/lm/lmsy10.pfb><C:/Users/synch/AppData/Loc
 al/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmtt10.pfb>
-Output written on General_Bioinformatics_info_lecture.pdf (52 pages, 4647996 by
+Output written on General_Bioinformatics_info_lecture.pdf (52 pages, 4648024 by
 tes).
 PDF statistics:
  642 PDF objects out of 1000 (max. 8388607)

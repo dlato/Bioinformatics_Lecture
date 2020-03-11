@@ -149,7 +149,7 @@ exp_results <- ggplot(data=df_neg, aes(x=x, y=rev_y, group=1)) +
   geom_line(color="#087E8B", size=2)+
   theme(plot.title = element_text(hjust = 0.5), 
         text = element_text(size=30)) +
-  ggtitle("Gene Expression") +
+  ggtitle(expression(paste(underline("Gene Expression")))) +
   labs(x = "Genomic Position", y = "Expression") +
   expand_limits(y = c(-5,20)) +
   theme(axis.text.x=element_blank(),
@@ -157,7 +157,7 @@ exp_results <- ggplot(data=df_neg, aes(x=x, y=rev_y, group=1)) +
         axis.text.y=element_blank(),
         axis.ticks.y=element_blank(),
   )
-pdf("exp_results_graph.pdf")
+pdf("exp_graph.pdf")
 expression
 dev.off()
 
