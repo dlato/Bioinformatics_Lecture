@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.3.4)  11 MAR 2020 18:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.3.4)  11 MAR 2020 18:53
 entering extended mode
 **./General_Bioinformatics_info_lecture.tex
 (General_Bioinformatics_info_lecture.tex
@@ -1314,23 +1314,23 @@ Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
 ))
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\\' on input line 131.
+(hyperref)                removing `\\' on input line 132.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\\' on input line 131.
+(hyperref)                removing `\\' on input line 132.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\\' on input line 131.
+(hyperref)                removing `\\' on input line 132.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\\' on input line 131.
+(hyperref)                removing `\\' on input line 132.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\\' on input line 131.
+(hyperref)                removing `\\' on input line 132.
 
 
 ("C:\Users\synch\AppData\Local\Programs\MiKTeX 2.9\tex/latex/upquote\upquote.st
@@ -1519,24 +1519,24 @@ Library (tcolorbox): 'tcbposter.code.tex' version '4.22'
 )) (General_Bioinformatics_info_lecture.aux)
 \openout1 = `General_Bioinformatics_info_lecture.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 242.
-LaTeX Font Info:    ... okay on input line 242.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 242.
-LaTeX Font Info:    ... okay on input line 242.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 242.
-LaTeX Font Info:    ... okay on input line 242.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 242.
-LaTeX Font Info:    ... okay on input line 242.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 242.
-LaTeX Font Info:    ... okay on input line 242.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 242.
-LaTeX Font Info:    ... okay on input line 242.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 242.
-LaTeX Font Info:    ... okay on input line 242.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 242.
-LaTeX Font Info:    ... okay on input line 242.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 243.
+LaTeX Font Info:    ... okay on input line 243.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 243.
+LaTeX Font Info:    ... okay on input line 243.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 243.
+LaTeX Font Info:    ... okay on input line 243.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 243.
+LaTeX Font Info:    ... okay on input line 243.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 243.
+LaTeX Font Info:    ... okay on input line 243.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 243.
+LaTeX Font Info:    ... okay on input line 243.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 243.
+LaTeX Font Info:    ... okay on input line 243.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 243.
+LaTeX Font Info:    ... okay on input line 243.
 LaTeX Font Info:    Trying to load font information for OT1+lmss on input line 
-242.
+243.
 
 ("C:\Users\synch\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lm\ot1lmss.fd"
 File: ot1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
@@ -1598,7 +1598,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
 ) ABD: EveryShipout initializing macros
 \AtBeginShipoutBox=\box127
-Package hyperref Info: Link coloring OFF on input line 242.
+Package hyperref Info: Link coloring OFF on input line 243.
 
 ("C:\Users\synch\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\nameref.s
 ty"
@@ -1614,60 +1614,60 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count398
 )
-LaTeX Info: Redefining \ref on input line 242.
-LaTeX Info: Redefining \pageref on input line 242.
-LaTeX Info: Redefining \nameref on input line 242.
+LaTeX Info: Redefining \ref on input line 243.
+LaTeX Info: Redefining \pageref on input line 243.
+LaTeX Info: Redefining \nameref on input line 243.
  (General_Bioinformatics_info_lecture.out)
 (General_Bioinformatics_info_lecture.out)
 \@outlinefile=\write8
 \openout8 = `General_Bioinformatics_info_lecture.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/lmr/m/n --> OT1/cmss/m/n on input line 242.
+(Font)                  OT1/lmr/m/n --> OT1/cmss/m/n on input line 243.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/lmr/bx/n --> OT1/cmss/b/n on input line 242.
+(Font)                  OT1/lmr/bx/n --> OT1/cmss/b/n on input line 243.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 242.
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 243.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmss/b/n --> OT1/lmss/b/n on input line 242.
+(Font)                  OT1/cmss/b/n --> OT1/lmss/b/n on input line 243.
 \symnumbers=\mathgroup7
 \sympureletters=\mathgroup8
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/lmss/m/n --> OT1/lmr/m/n on input line 242.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 242.
+(Font)                  OT1/lmss/m/n --> OT1/lmr/m/n on input line 243.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 243.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/lmr/bx/n --> OT1/lmss/b/n on input line 242.
+(Font)                  OT1/lmr/bx/n --> OT1/lmss/b/n on input line 243.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/lmr/bx/n --> OT1/lmss/b/n on input line 242.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 242.
+(Font)                  OT1/lmr/bx/n --> OT1/lmss/b/n on input line 243.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 243.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/lmss/m/n --> OT1/lmss/m/n on input line 242.
+(Font)                  OT1/lmss/m/n --> OT1/lmss/m/n on input line 243.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/lmss/bx/n --> OT1/lmss/m/n on input line 242.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 242.
+(Font)                  OT1/lmss/bx/n --> OT1/lmss/m/n on input line 243.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 243.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/lmr/m/it --> OT1/lmss/m/it on input line 242.
+(Font)                  OT1/lmr/m/it --> OT1/lmss/m/it on input line 243.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/lmr/bx/it --> OT1/lmss/m/it on input line 242.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 242.
+(Font)                  OT1/lmr/bx/it --> OT1/lmss/m/it on input line 243.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 243.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/lmtt/m/n --> OT1/lmtt/m/n on input line 242.
+(Font)                  OT1/lmtt/m/n --> OT1/lmtt/m/n on input line 243.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/lmtt/m/n --> OT1/lmtt/m/n on input line 242.
+(Font)                  OT1/lmtt/m/n --> OT1/lmtt/m/n on input line 243.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  OT1/lmss/m/n --> OT1/lmss/b/n on input line 242.
+(Font)                  OT1/lmss/m/n --> OT1/lmss/b/n on input line 243.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/lmss/m/it --> OT1/lmss/b/it on input line 242.
+(Font)                  OT1/lmss/m/it --> OT1/lmss/b/it on input line 243.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/lmss/b/n --> OT1/lmr/b/n on input line 242.
+(Font)                  OT1/lmss/b/n --> OT1/lmr/b/n on input line 243.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/lmss/b/n --> OT1/lmss/b/n on input line 242.
+(Font)                  OT1/lmss/b/n --> OT1/lmss/b/n on input line 243.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/lmss/m/n --> OT1/lmss/b/n on input line 242.
+(Font)                  OT1/lmss/m/n --> OT1/lmss/b/n on input line 243.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/lmss/m/it --> OT1/lmss/b/it on input line 242.
+(Font)                  OT1/lmss/m/it --> OT1/lmss/b/it on input line 243.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/lmtt/m/n --> OT1/lmtt/b/n on input line 242.
+(Font)                  OT1/lmtt/m/n --> OT1/lmtt/b/n on input line 243.
 
 ("C:\Users\synch\AppData\Local\Programs\MiKTeX 2.9\tex/latex/translator\transla
 tor-basic-dictionary-English.dict"
@@ -1693,7 +1693,7 @@ Dictionary: translator-numbers-dictionary, Language: English
 tor-theorem-dictionary-English.dict"
 Dictionary: translator-theorem-dictionary, Language: English 
 ) ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 242.
+LaTeX Info: Redefining \selectfont on input line 243.
 \c@lstlisting=\count399
 
 ("C:\Users\synch\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\inputenc.sty"
@@ -1702,63 +1702,63 @@ Package: inputenc 2018/08/11 v1.3c Input encoding file
 \inpenc@posthook=\toks72
 ) (General_Bioinformatics_info_lecture.nav)
 LaTeX Font Info:    Trying to load font information for U+ifsym on input line 2
-47.
+48.
 
 ("C:\Users\synch\AppData\Local\Programs\MiKTeX 2.9\tex/fonts/ifsym\uifsym.fd")
 LaTeX Font Info:    Trying to load font information for OT1+lmtt on input line 
-247.
+248.
 
 ("C:\Users\synch\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lm\ot1lmtt.fd"
 File: ot1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OML+lmm on input line 2
-47.
+48.
 
 ("C:\Users\synch\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lm\omllmm.fd"
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-247.
+248.
 
 ("C:\Users\synch\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lm\omslmsy.fd"
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
-247.
+248.
 
 ("C:\Users\synch\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lm\omxlmex.fd"
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 247.
+(Font)              <10.95> on input line 248.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 247.
+(Font)              <8> on input line 248.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 247.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 247
+(Font)              <6> on input line 248.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 248
 .
 
 ("C:\Users\synch\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 247
+LaTeX Font Info:    Trying to load font information for U+msb on input line 248
 .
 ("C:\Users\synch\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Trying to load font information for U+wasy on input line 24
-7.
+8.
 ("C:\Users\synch\AppData\Local\Programs\MiKTeX 2.9\tex/latex/wasysym\uwasy.fd"
 File: uwasy.fd 2020/01/19 v2.4 Wasy-2 symbol font definitions
 )
 LaTeX Font Info:    Font shape `OT1/lmss/m/it' in size <10.95> not available
-(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 247.
+(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 248.
 
 LaTeX Font Info:    Font shape `OT1/lmss/m/it' in size <8> not available
-(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 247.
+(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 248.
 
 LaTeX Font Info:    Font shape `OT1/lmss/m/it' in size <6> not available
-(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 247.
+(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 248.
 
 [1
 
@@ -1766,7 +1766,7 @@ LaTeX Font Info:    Font shape `OT1/lmss/m/it' in size <6> not available
 <./smel_dna.png, id=61, 317.988pt x 411.33675pt>
 File: ./smel_dna.png Graphic file (type png)
 <use ./smel_dna.png>
-Package pdftex.def Info: ./smel_dna.png  used on input line 261.
+Package pdftex.def Info: ./smel_dna.png  used on input line 262.
 (pdftex.def)             Requested size: 364.19536pt x 471.1318pt.
  [2
 
@@ -1774,7 +1774,7 @@ Package pdftex.def Info: ./smel_dna.png  used on input line 261.
 <./seq_cost_graph.pdf, id=67, 650.43pt x 505.89pt>
 File: ./seq_cost_graph.pdf Graphic file (type pdf)
 <use ./seq_cost_graph.pdf>
-Package pdftex.def Info: ./seq_cost_graph.pdf  used on input line 271.
+Package pdftex.def Info: ./seq_cost_graph.pdf  used on input line 272.
 (pdftex.def)             Requested size: 307.28987pt x 239.01112pt.
  [3
 
@@ -1782,7 +1782,7 @@ Package pdftex.def Info: ./seq_cost_graph.pdf  used on input line 271.
 <./iphone.jpg, id=78, 442.65375pt x 530.98375pt>
 File: ./iphone.jpg Graphic file (type jpg)
 <use ./iphone.jpg>
-Package pdftex.def Info: ./iphone.jpg  used on input line 279.
+Package pdftex.def Info: ./iphone.jpg  used on input line 280.
 (pdftex.def)             Requested size: 153.64493pt x 184.30768pt.
  [4
 
@@ -1790,7 +1790,7 @@ Package pdftex.def Info: ./iphone.jpg  used on input line 279.
 <./seq_num_graph.pdf, id=85, 650.43pt x 505.89pt>
 File: ./seq_num_graph.pdf Graphic file (type pdf)
 <use ./seq_num_graph.pdf>
-Package pdftex.def Info: ./seq_num_graph.pdf  used on input line 289.
+Package pdftex.def Info: ./seq_num_graph.pdf  used on input line 290.
 (pdftex.def)             Requested size: 307.28987pt x 239.01112pt.
  [5
 
@@ -1803,22 +1803,22 @@ ion <1.7>, but at most version <1.5> allowed
 <./laptop.pdf, id=101, 614.295pt x 794.97pt>
 File: ./laptop.pdf Graphic file (type pdf)
 <use ./laptop.pdf>
-Package pdftex.def Info: ./laptop.pdf  used on input line 313.
+Package pdftex.def Info: ./laptop.pdf  used on input line 314.
 (pdftex.def)             Requested size: 94.03064pt x 121.67853pt.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <24.88> on input line 313.
+(Font)              <24.88> on input line 314.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <20.74> on input line 313.
+(Font)              <20.74> on input line 314.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <17.28> on input line 313.
+(Font)              <17.28> on input line 314.
 LaTeX Font Info:    Font shape `OT1/lmss/m/it' in size <24.88> not available
-(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 313.
+(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 314.
 
 LaTeX Font Info:    Font shape `OT1/lmss/m/it' in size <20.74> not available
-(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 313.
+(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 314.
 
 LaTeX Font Info:    Font shape `OT1/lmss/m/it' in size <17.28> not available
-(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 313.
+(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 314.
 
 [7
 
@@ -1826,7 +1826,7 @@ LaTeX Font Info:    Font shape `OT1/lmss/m/it' in size <17.28> not available
 <./many_laptops.png, id=286, 365.56575pt x 395.67825pt>
 File: ./many_laptops.png Graphic file (type png)
 <use ./many_laptops.png>
-Package pdftex.def Info: ./many_laptops.png  used on input line 328.
+Package pdftex.def Info: ./many_laptops.png  used on input line 329.
 (pdftex.def)             Requested size: 364.19536pt x 394.19203pt.
  [8
 
@@ -1834,7 +1834,7 @@ Package pdftex.def Info: ./many_laptops.png  used on input line 328.
 <./bioinformatics.jpg, id=292, 351.3125pt x 301.125pt>
 File: ./bioinformatics.jpg Graphic file (type jpg)
 <use ./bioinformatics.jpg>
-Package pdftex.def Info: ./bioinformatics.jpg  used on input line 337.
+Package pdftex.def Info: ./bioinformatics.jpg  used on input line 338.
 (pdftex.def)             Requested size: 364.19536pt x 312.1931pt.
  [9
 
@@ -1851,7 +1851,7 @@ Package pdftex.def Info: ./bioinformatics.jpg  used on input line 337.
 <./HGP_ppl.jpg, id=319, 632.3625pt x 388.45125pt>
 File: ./HGP_ppl.jpg Graphic file (type jpg)
 <use ./HGP_ppl.jpg>
-Package pdftex.def Info: ./HGP_ppl.jpg  used on input line 392.
+Package pdftex.def Info: ./HGP_ppl.jpg  used on input line 393.
 (pdftex.def)             Requested size: 298.07155pt x 183.10556pt.
  [14
 
@@ -1861,14 +1861,14 @@ Package pdftex.def Info: ./HGP_ppl.jpg  used on input line 392.
 <./hgp_covers.png, id=330, 853.1875pt x 547.04375pt>
 File: ./hgp_covers.png Graphic file (type png)
 <use ./hgp_covers.png>
-Package pdftex.def Info: ./hgp_covers.png  used on input line 423.
+Package pdftex.def Info: ./hgp_covers.png  used on input line 424.
 (pdftex.def)             Requested size: 276.559pt x 177.328pt.
  [16
 
  <./hgp_covers.png>]
 File: ./hgp_covers.png Graphic file (type png)
 <use ./hgp_covers.png>
-Package pdftex.def Info: ./hgp_covers.png  used on input line 423.
+Package pdftex.def Info: ./hgp_covers.png  used on input line 424.
 (pdftex.def)             Requested size: 276.559pt x 177.328pt.
  [17
 
@@ -1887,7 +1887,7 @@ Package pdftex.def Info: ./hgp_covers.png  used on input line 423.
 <./Bacillus_alignment_mauve.jpg, id=368, 1924.18875pt x 1079.03125pt>
 File: ./Bacillus_alignment_mauve.jpg Graphic file (type jpg)
 <use ./Bacillus_alignment_mauve.jpg>
-Package pdftex.def Info: ./Bacillus_alignment_mauve.jpg  used on input line 479
+Package pdftex.def Info: ./Bacillus_alignment_mauve.jpg  used on input line 480
 .
 (pdftex.def)             Requested size: 307.28987pt x 172.31923pt.
  [23
@@ -1895,7 +1895,7 @@ Package pdftex.def Info: ./Bacillus_alignment_mauve.jpg  used on input line 479
  <./Bacillus_alignment_mauve.jpg>]
 File: ./Bacillus_alignment_mauve.jpg Graphic file (type jpg)
 <use ./Bacillus_alignment_mauve.jpg>
-Package pdftex.def Info: ./Bacillus_alignment_mauve.jpg  used on input line 479
+Package pdftex.def Info: ./Bacillus_alignment_mauve.jpg  used on input line 480
 .
 (pdftex.def)             Requested size: 307.28987pt x 172.31923pt.
  [24
@@ -1904,7 +1904,7 @@ Package pdftex.def Info: ./Bacillus_alignment_mauve.jpg  used on input line 479
 <./linux_mauve.png, id=379, 694.39426pt x 511.31026pt>
 File: ./linux_mauve.png Graphic file (type png)
 <use ./linux_mauve.png>
-Package pdftex.def Info: ./linux_mauve.png  used on input line 490.
+Package pdftex.def Info: ./linux_mauve.png  used on input line 491.
 (pdftex.def)             Requested size: 261.19826pt x 192.33382pt.
  [25
 
@@ -1916,10 +1916,10 @@ Package pdftex.def Info: ./linux_mauve.png  used on input line 490.
 <./figs/plague_no_model.png, id=396, 510.40688pt x 375.65344pt>
 File: ./figs/plague_no_model.png Graphic file (type png)
 <use ./figs/plague_no_model.png>
-Package pdftex.def Info: ./figs/plague_no_model.png  used on input line 523.
+Package pdftex.def Info: ./figs/plague_no_model.png  used on input line 524.
 (pdftex.def)             Requested size: 285.77733pt x 210.33582pt.
 
-Overfull \vbox (7.74438pt too high) detected at line 523
+Overfull \vbox (7.74438pt too high) detected at line 524
  []
 
 [28
@@ -1928,10 +1928,10 @@ Overfull \vbox (7.74438pt too high) detected at line 523
 <./modeling_plague.png, id=402, 605.26125pt x 430.60875pt>
 File: ./modeling_plague.png Graphic file (type png)
 <use ./modeling_plague.png>
-Package pdftex.def Info: ./modeling_plague.png  used on input line 535.
+Package pdftex.def Info: ./modeling_plague.png  used on input line 536.
 (pdftex.def)             Requested size: 291.92444pt x 207.68857pt.
 
-Overfull \vbox (5.09714pt too high) detected at line 535
+Overfull \vbox (5.09714pt too high) detected at line 536
  []
 
 [29
@@ -1940,10 +1940,10 @@ Overfull \vbox (5.09714pt too high) detected at line 535
 <./modeling_ecology.jpg, id=410, 444.91219pt x 347.79938pt>
 File: ./modeling_ecology.jpg Graphic file (type jpg)
 <use ./modeling_ecology.jpg>
-Package pdftex.def Info: ./modeling_ecology.jpg  used on input line 547.
+Package pdftex.def Info: ./modeling_ecology.jpg  used on input line 548.
 (pdftex.def)             Requested size: 261.19826pt x 204.18622pt.
 
-Overfull \vbox (1.59479pt too high) detected at line 547
+Overfull \vbox (1.59479pt too high) detected at line 548
  []
 
 [30
@@ -1961,7 +1961,7 @@ Overfull \vbox (1.59479pt too high) detected at line 547
 File: ./bac_genome_reorg_diagrams/HGT_pic.png Graphic file (type png)
 <use ./bac_genome_reorg_diagrams/HGT_pic.png>
 Package pdftex.def Info: ./bac_genome_reorg_diagrams/HGT_pic.png  used on input
- line 597.
+ line 598.
 (pdftex.def)             Requested size: 108.31995pt x 81.23407pt.
  [35
 
@@ -1969,7 +1969,7 @@ Package pdftex.def Info: ./bac_genome_reorg_diagrams/HGT_pic.png  used on input
 File: ./bac_genome_reorg_diagrams/HGT_pic.png Graphic file (type png)
 <use ./bac_genome_reorg_diagrams/HGT_pic.png>
 Package pdftex.def Info: ./bac_genome_reorg_diagrams/HGT_pic.png  used on input
- line 597.
+ line 598.
 (pdftex.def)             Requested size: 108.31995pt x 81.23407pt.
  [36
 
@@ -1977,13 +1977,13 @@ Package pdftex.def Info: ./bac_genome_reorg_diagrams/HGT_pic.png  used on input
 File: ./bac_genome_reorg_diagrams/HGT_pic.png Graphic file (type png)
 <use ./bac_genome_reorg_diagrams/HGT_pic.png>
 Package pdftex.def Info: ./bac_genome_reorg_diagrams/HGT_pic.png  used on input
- line 616.
+ line 617.
 (pdftex.def)             Requested size: 108.31995pt x 81.23407pt.
 <./bac_genome_reorg_diagrams/duplication_pic.jpg, id=449, 722.7pt x 542.025pt>
 File: ./bac_genome_reorg_diagrams/duplication_pic.jpg Graphic file (type jpg)
 <use ./bac_genome_reorg_diagrams/duplication_pic.jpg>
 Package pdftex.def Info: ./bac_genome_reorg_diagrams/duplication_pic.jpg  used 
-on input line 616.
+on input line 617.
 (pdftex.def)             Requested size: 722.69823pt x 542.02367pt.
  [37
 
@@ -1991,7 +1991,7 @@ on input line 616.
 File: ./bac_genome_reorg_diagrams/HGT_pic.png Graphic file (type png)
 <use ./bac_genome_reorg_diagrams/HGT_pic.png>
 Package pdftex.def Info: ./bac_genome_reorg_diagrams/HGT_pic.png  used on input
- line 639.
+ line 640.
 (pdftex.def)             Requested size: 108.31995pt x 81.23407pt.
 <./bac_genome_reorg_diagrams/rearrangements_pic.jpg, id=456, 722.7pt x 542.025p
 t>
@@ -1999,18 +1999,18 @@ File: ./bac_genome_reorg_diagrams/rearrangements_pic.jpg Graphic file (type jpg
 )
 <use ./bac_genome_reorg_diagrams/rearrangements_pic.jpg>
 Package pdftex.def Info: ./bac_genome_reorg_diagrams/rearrangements_pic.jpg  us
-ed on input line 639.
+ed on input line 640.
 (pdftex.def)             Requested size: 722.69823pt x 542.02367pt.
 File: ./bac_genome_reorg_diagrams/duplication_pic.jpg Graphic file (type jpg)
 <use ./bac_genome_reorg_diagrams/duplication_pic.jpg>
 Package pdftex.def Info: ./bac_genome_reorg_diagrams/duplication_pic.jpg  used 
-on input line 639.
+on input line 640.
 (pdftex.def)             Requested size: 722.69823pt x 542.02367pt.
 <./bac_genome_reorg_diagrams/inversion_pic.jpg, id=457, 722.7pt x 542.025pt>
 File: ./bac_genome_reorg_diagrams/inversion_pic.jpg Graphic file (type jpg)
 <use ./bac_genome_reorg_diagrams/inversion_pic.jpg>
 Package pdftex.def Info: ./bac_genome_reorg_diagrams/inversion_pic.jpg  used on
- input line 639.
+ input line 640.
 (pdftex.def)             Requested size: 722.69823pt x 542.02367pt.
 
 [38
@@ -2021,25 +2021,25 @@ ams/inversion_pic.jpg>]
 File: ./Spatial_genome_trends_graphs/ess_graph.pdf Graphic file (type pdf)
 <use ./Spatial_genome_trends_graphs/ess_graph.pdf>
 Package pdftex.def Info: ./Spatial_genome_trends_graphs/ess_graph.pdf  used on 
-input line 660.
+input line 661.
 (pdftex.def)             Requested size: 102.94182pt x 102.93619pt.
 <./Spatial_genome_trends_graphs/cons_graph.pdf, id=464, 505.89pt x 505.89pt>
 File: ./Spatial_genome_trends_graphs/cons_graph.pdf Graphic file (type pdf)
 <use ./Spatial_genome_trends_graphs/cons_graph.pdf>
 Package pdftex.def Info: ./Spatial_genome_trends_graphs/cons_graph.pdf  used on
- input line 660.
+ input line 661.
 (pdftex.def)             Requested size: 102.94182pt x 102.93619pt.
 <./Spatial_genome_trends_graphs/mut_graph.pdf, id=465, 505.89pt x 505.89pt>
 File: ./Spatial_genome_trends_graphs/mut_graph.pdf Graphic file (type pdf)
 <use ./Spatial_genome_trends_graphs/mut_graph.pdf>
 Package pdftex.def Info: ./Spatial_genome_trends_graphs/mut_graph.pdf  used on 
-input line 660.
+input line 661.
 (pdftex.def)             Requested size: 102.94182pt x 102.93619pt.
 <./Spatial_genome_trends_graphs/exp_graph.pdf, id=466, 505.89pt x 505.89pt>
 File: ./Spatial_genome_trends_graphs/exp_graph.pdf Graphic file (type pdf)
 <use ./Spatial_genome_trends_graphs/exp_graph.pdf>
 Package pdftex.def Info: ./Spatial_genome_trends_graphs/exp_graph.pdf  used on 
-input line 660.
+input line 661.
 (pdftex.def)             Requested size: 102.94182pt x 102.93619pt.
  [39
 
@@ -2049,22 +2049,22 @@ me_trends_graphs/exp_graph.pdf>]
 File: ./Spatial_genome_trends_graphs/ess_graph.pdf Graphic file (type pdf)
 <use ./Spatial_genome_trends_graphs/ess_graph.pdf>
 Package pdftex.def Info: ./Spatial_genome_trends_graphs/ess_graph.pdf  used on 
-input line 660.
+input line 661.
 (pdftex.def)             Requested size: 102.94182pt x 102.93619pt.
 File: ./Spatial_genome_trends_graphs/cons_graph.pdf Graphic file (type pdf)
 <use ./Spatial_genome_trends_graphs/cons_graph.pdf>
 Package pdftex.def Info: ./Spatial_genome_trends_graphs/cons_graph.pdf  used on
- input line 660.
+ input line 661.
 (pdftex.def)             Requested size: 102.94182pt x 102.93619pt.
 File: ./Spatial_genome_trends_graphs/mut_graph.pdf Graphic file (type pdf)
 <use ./Spatial_genome_trends_graphs/mut_graph.pdf>
 Package pdftex.def Info: ./Spatial_genome_trends_graphs/mut_graph.pdf  used on 
-input line 660.
+input line 661.
 (pdftex.def)             Requested size: 102.94182pt x 102.93619pt.
 File: ./Spatial_genome_trends_graphs/exp_graph.pdf Graphic file (type pdf)
 <use ./Spatial_genome_trends_graphs/exp_graph.pdf>
 Package pdftex.def Info: ./Spatial_genome_trends_graphs/exp_graph.pdf  used on 
-input line 660.
+input line 661.
 (pdftex.def)             Requested size: 102.94182pt x 102.93619pt.
  [40
 
@@ -2072,12 +2072,12 @@ input line 660.
 File: ./Spatial_genome_trends_graphs/mut_graph.pdf Graphic file (type pdf)
 <use ./Spatial_genome_trends_graphs/mut_graph.pdf>
 Package pdftex.def Info: ./Spatial_genome_trends_graphs/mut_graph.pdf  used on 
-input line 681.
+input line 682.
 (pdftex.def)             Requested size: 102.94182pt x 102.93619pt.
 File: ./Spatial_genome_trends_graphs/exp_graph.pdf Graphic file (type pdf)
 <use ./Spatial_genome_trends_graphs/exp_graph.pdf>
 Package pdftex.def Info: ./Spatial_genome_trends_graphs/exp_graph.pdf  used on 
-input line 681.
+input line 682.
 (pdftex.def)             Requested size: 102.94182pt x 102.93619pt.
  [41
 
@@ -2087,10 +2087,10 @@ input line 681.
 File: ./figs/6_strep_strains_mauve_aln_pic_13Jan20.jpg Graphic file (type jpg)
 <use ./figs/6_strep_strains_mauve_aln_pic_13Jan20.jpg>
 Package pdftex.def Info: ./figs/6_strep_strains_mauve_aln_pic_13Jan20.jpg  used
- on input line 689.
+ on input line 690.
 (pdftex.def)             Requested size: 245.83282pt x 234.2298pt.
 
-Overfull \vbox (14.74257pt too high) detected at line 689
+Overfull \vbox (14.74257pt too high) detected at line 690
  []
 
 [42
@@ -2099,7 +2099,7 @@ Overfull \vbox (14.74257pt too high) detected at line 689
 <strep_pic.png, id=508, 1058.7555pt x 230.66174pt>
 File: strep_pic.png Graphic file (type png)
 <use strep_pic.png>
-Package pdftex.def Info: strep_pic.png  used on input line 712.
+Package pdftex.def Info: strep_pic.png  used on input line 713.
 (pdftex.def)             Requested size: 307.28987pt x 66.94649pt.
  [43
 
@@ -2107,12 +2107,12 @@ Package pdftex.def Info: strep_pic.png  used on input line 712.
 File: ./Spatial_genome_trends_graphs/mut_graph.pdf Graphic file (type pdf)
 <use ./Spatial_genome_trends_graphs/mut_graph.pdf>
 Package pdftex.def Info: ./Spatial_genome_trends_graphs/mut_graph.pdf  used on 
-input line 733.
+input line 734.
 (pdftex.def)             Requested size: 99.86826pt x 99.86392pt.
 File: ./Spatial_genome_trends_graphs/exp_graph.pdf Graphic file (type pdf)
 <use ./Spatial_genome_trends_graphs/exp_graph.pdf>
 Package pdftex.def Info: ./Spatial_genome_trends_graphs/exp_graph.pdf  used on 
-input line 733.
+input line 734.
 (pdftex.def)             Requested size: 99.86826pt x 99.86392pt.
 <./Spatial_genome_trends_graphs/sub_results_graph.pdf, id=517, 505.89pt x 505.8
 9pt>
@@ -2120,7 +2120,7 @@ File: ./Spatial_genome_trends_graphs/sub_results_graph.pdf Graphic file (type p
 df)
 <use ./Spatial_genome_trends_graphs/sub_results_graph.pdf>
 Package pdftex.def Info: ./Spatial_genome_trends_graphs/sub_results_graph.pdf  
-used on input line 733.
+used on input line 734.
 (pdftex.def)             Requested size: 99.86826pt x 99.86392pt.
 <./Spatial_genome_trends_graphs/exp_results_graph.pdf, id=518, 505.89pt x 505.8
 9pt>
@@ -2128,10 +2128,10 @@ File: ./Spatial_genome_trends_graphs/exp_results_graph.pdf Graphic file (type p
 df)
 <use ./Spatial_genome_trends_graphs/exp_results_graph.pdf>
 Package pdftex.def Info: ./Spatial_genome_trends_graphs/exp_results_graph.pdf  
-used on input line 733.
+used on input line 734.
 (pdftex.def)             Requested size: 99.86826pt x 99.86392pt.
 
-Overfull \vbox (0.96976pt too high) detected at line 733
+Overfull \vbox (0.96976pt too high) detected at line 734
  []
 
 [44
@@ -2141,27 +2141,27 @@ s_graphs/exp_results_graph.pdf>]
 File: ./Spatial_genome_trends_graphs/mut_graph.pdf Graphic file (type pdf)
 <use ./Spatial_genome_trends_graphs/mut_graph.pdf>
 Package pdftex.def Info: ./Spatial_genome_trends_graphs/mut_graph.pdf  used on 
-input line 733.
+input line 734.
 (pdftex.def)             Requested size: 99.86826pt x 99.86392pt.
 File: ./Spatial_genome_trends_graphs/exp_graph.pdf Graphic file (type pdf)
 <use ./Spatial_genome_trends_graphs/exp_graph.pdf>
 Package pdftex.def Info: ./Spatial_genome_trends_graphs/exp_graph.pdf  used on 
-input line 733.
+input line 734.
 (pdftex.def)             Requested size: 99.86826pt x 99.86392pt.
 File: ./Spatial_genome_trends_graphs/sub_results_graph.pdf Graphic file (type p
 df)
 <use ./Spatial_genome_trends_graphs/sub_results_graph.pdf>
 Package pdftex.def Info: ./Spatial_genome_trends_graphs/sub_results_graph.pdf  
-used on input line 733.
+used on input line 734.
 (pdftex.def)             Requested size: 99.86826pt x 99.86392pt.
 File: ./Spatial_genome_trends_graphs/exp_results_graph.pdf Graphic file (type p
 df)
 <use ./Spatial_genome_trends_graphs/exp_results_graph.pdf>
 Package pdftex.def Info: ./Spatial_genome_trends_graphs/exp_results_graph.pdf  
-used on input line 733.
+used on input line 734.
 (pdftex.def)             Requested size: 99.86826pt x 99.86392pt.
 
-Overfull \vbox (0.96976pt too high) detected at line 733
+Overfull \vbox (0.96976pt too high) detected at line 734
  []
 
 [45
@@ -2170,10 +2170,10 @@ Overfull \vbox (0.96976pt too high) detected at line 733
 <./comp_bio.png, id=539, 646.8165pt x 505.89pt>
 File: ./comp_bio.png Graphic file (type png)
 <use ./comp_bio.png>
-Package pdftex.def Info: ./comp_bio.png  used on input line 740.
+Package pdftex.def Info: ./comp_bio.png  used on input line 741.
 (pdftex.def)             Requested size: 291.92444pt x 228.31996pt.
 
-Overfull \vbox (0.83273pt too high) detected at line 740
+Overfull \vbox (0.83273pt too high) detected at line 741
  []
 
 [46
@@ -2182,25 +2182,25 @@ Overfull \vbox (0.83273pt too high) detected at line 740
 <./figs/marie_curie.png, id=545, 316.93407pt x 289.08pt>
 File: ./figs/marie_curie.png Graphic file (type png)
 <use ./figs/marie_curie.png>
-Package pdftex.def Info: ./figs/marie_curie.png  used on input line 764.
+Package pdftex.def Info: ./figs/marie_curie.png  used on input line 765.
 (pdftex.def)             Requested size: 107.55098pt x 98.09622pt.
-<./figs/katherine_johnson.jpg, id=546, 702.625pt x 885.3075pt>
+<./figs/katherine_johnson.jpg, id=546, 526.96875pt x 663.98062pt>
 File: ./figs/katherine_johnson.jpg Graphic file (type jpg)
 <use ./figs/katherine_johnson.jpg>
-Package pdftex.def Info: ./figs/katherine_johnson.jpg  used on input line 764.
-(pdftex.def)             Requested size: 84.50517pt x 106.47546pt.
+Package pdftex.def Info: ./figs/katherine_johnson.jpg  used on input line 765.
+(pdftex.def)             Requested size: 84.50517pt x 106.47209pt.
 <./figs/fb.png, id=547, 148.8762pt x 149.358pt>
 File: ./figs/fb.png Graphic file (type png)
 <use ./figs/fb.png>
-Package pdftex.def Info: ./figs/fb.png  used on input line 764.
+Package pdftex.def Info: ./figs/fb.png  used on input line 765.
 (pdftex.def)             Requested size: 99.86826pt x 100.19011pt.
 <./figs/insta.png, id=548, 137.7647pt x 140.02313pt>
 File: ./figs/insta.png Graphic file (type png)
 <use ./figs/insta.png>
-Package pdftex.def Info: ./figs/insta.png  used on input line 764.
+Package pdftex.def Info: ./figs/insta.png  used on input line 765.
 (pdftex.def)             Requested size: 99.86826pt x 101.50882pt.
 
-Overfull \vbox (21.71167pt too high) detected at line 764
+Overfull \vbox (9.7083pt too high) detected at line 765
  []
 
 [47
@@ -2209,22 +2209,22 @@ Overfull \vbox (21.71167pt too high) detected at line 764
 s/insta.png>]
 File: ./figs/marie_curie.png Graphic file (type png)
 <use ./figs/marie_curie.png>
-Package pdftex.def Info: ./figs/marie_curie.png  used on input line 764.
+Package pdftex.def Info: ./figs/marie_curie.png  used on input line 765.
 (pdftex.def)             Requested size: 107.55098pt x 98.09622pt.
 File: ./figs/katherine_johnson.jpg Graphic file (type jpg)
 <use ./figs/katherine_johnson.jpg>
-Package pdftex.def Info: ./figs/katherine_johnson.jpg  used on input line 764.
-(pdftex.def)             Requested size: 84.50517pt x 106.47546pt.
+Package pdftex.def Info: ./figs/katherine_johnson.jpg  used on input line 765.
+(pdftex.def)             Requested size: 84.50517pt x 106.47209pt.
 File: ./figs/fb.png Graphic file (type png)
 <use ./figs/fb.png>
-Package pdftex.def Info: ./figs/fb.png  used on input line 764.
+Package pdftex.def Info: ./figs/fb.png  used on input line 765.
 (pdftex.def)             Requested size: 99.86826pt x 100.19011pt.
 File: ./figs/insta.png Graphic file (type png)
 <use ./figs/insta.png>
-Package pdftex.def Info: ./figs/insta.png  used on input line 764.
+Package pdftex.def Info: ./figs/insta.png  used on input line 765.
 (pdftex.def)             Requested size: 99.86826pt x 101.50882pt.
 
-Overfull \vbox (21.71167pt too high) detected at line 764
+Overfull \vbox (9.7083pt too high) detected at line 765
  []
 
 [48
@@ -2232,22 +2232,22 @@ Overfull \vbox (21.71167pt too high) detected at line 764
 ]
 File: ./figs/marie_curie.png Graphic file (type png)
 <use ./figs/marie_curie.png>
-Package pdftex.def Info: ./figs/marie_curie.png  used on input line 764.
+Package pdftex.def Info: ./figs/marie_curie.png  used on input line 765.
 (pdftex.def)             Requested size: 107.55098pt x 98.09622pt.
 File: ./figs/katherine_johnson.jpg Graphic file (type jpg)
 <use ./figs/katherine_johnson.jpg>
-Package pdftex.def Info: ./figs/katherine_johnson.jpg  used on input line 764.
-(pdftex.def)             Requested size: 84.50517pt x 106.47546pt.
+Package pdftex.def Info: ./figs/katherine_johnson.jpg  used on input line 765.
+(pdftex.def)             Requested size: 84.50517pt x 106.47209pt.
 File: ./figs/fb.png Graphic file (type png)
 <use ./figs/fb.png>
-Package pdftex.def Info: ./figs/fb.png  used on input line 764.
+Package pdftex.def Info: ./figs/fb.png  used on input line 765.
 (pdftex.def)             Requested size: 99.86826pt x 100.19011pt.
 File: ./figs/insta.png Graphic file (type png)
 <use ./figs/insta.png>
-Package pdftex.def Info: ./figs/insta.png  used on input line 764.
+Package pdftex.def Info: ./figs/insta.png  used on input line 765.
 (pdftex.def)             Requested size: 99.86826pt x 101.50882pt.
 
-Overfull \vbox (21.71167pt too high) detected at line 764
+Overfull \vbox (9.7083pt too high) detected at line 765
  []
 
 [49
@@ -2255,46 +2255,46 @@ Overfull \vbox (21.71167pt too high) detected at line 764
 ]
 File: ./figs/marie_curie.png Graphic file (type png)
 <use ./figs/marie_curie.png>
-Package pdftex.def Info: ./figs/marie_curie.png  used on input line 764.
+Package pdftex.def Info: ./figs/marie_curie.png  used on input line 765.
 (pdftex.def)             Requested size: 107.55098pt x 98.09622pt.
 File: ./figs/katherine_johnson.jpg Graphic file (type jpg)
 <use ./figs/katherine_johnson.jpg>
-Package pdftex.def Info: ./figs/katherine_johnson.jpg  used on input line 764.
-(pdftex.def)             Requested size: 84.50517pt x 106.47546pt.
+Package pdftex.def Info: ./figs/katherine_johnson.jpg  used on input line 765.
+(pdftex.def)             Requested size: 84.50517pt x 106.47209pt.
 File: ./figs/fb.png Graphic file (type png)
 <use ./figs/fb.png>
-Package pdftex.def Info: ./figs/fb.png  used on input line 764.
+Package pdftex.def Info: ./figs/fb.png  used on input line 765.
 (pdftex.def)             Requested size: 99.86826pt x 100.19011pt.
 File: ./figs/insta.png Graphic file (type png)
 <use ./figs/insta.png>
-Package pdftex.def Info: ./figs/insta.png  used on input line 764.
+Package pdftex.def Info: ./figs/insta.png  used on input line 765.
 (pdftex.def)             Requested size: 99.86826pt x 101.50882pt.
 
-Overfull \vbox (21.71167pt too high) detected at line 764
+Overfull \vbox (9.7083pt too high) detected at line 765
  []
 
 [50
 
 ]
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 781.
+(Font)              <12> on input line 782.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 781.
+(Font)              <10> on input line 782.
 LaTeX Font Info:    Font shape `OT1/lmss/m/it' in size <12> not available
-(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 781.
+(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 782.
 
 LaTeX Font Info:    Font shape `OT1/lmss/m/it' in size <10> not available
-(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 781.
+(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 782.
 
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 781.
+(Font)              <7> on input line 782.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 781.
+(Font)              <5> on input line 782.
 LaTeX Font Info:    Font shape `OT1/lmss/m/it' in size <7> not available
-(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 781.
+(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 782.
 
 LaTeX Font Info:    Font shape `OT1/lmss/m/it' in size <5> not available
-(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 781.
+(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 782.
 
  [51
 
@@ -2310,11 +2310,11 @@ LaTeX Font Info:    Font shape `OT1/lmss/m/it' in size <5> not available
 \tf@snm=\write11
 \openout11 = `General_Bioinformatics_info_lecture.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 798.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 798.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 799.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 799.
  (General_Bioinformatics_info_lecture.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 798.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 798.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 799.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 799.
 Package rerunfilecheck Info: File `General_Bioinformatics_info_lecture.out' has
  not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
@@ -2341,10 +2341,10 @@ iKTeX 2.9/fonts/type1/public/lm/lmsso10.pfb><C:/Users/synch/AppData/Local/Progr
 ams/MiKTeX 2.9/fonts/type1/public/lm/lmsso8.pfb><C:/Users/synch/AppData/Local/P
 rograms/MiKTeX 2.9/fonts/type1/public/lm/lmsy10.pfb><C:/Users/synch/AppData/Loc
 al/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmtt10.pfb>
-Output written on General_Bioinformatics_info_lecture.pdf (52 pages, 4648024 by
+Output written on General_Bioinformatics_info_lecture.pdf (52 pages, 4685313 by
 tes).
 PDF statistics:
- 642 PDF objects out of 1000 (max. 8388607)
+ 643 PDF objects out of 1000 (max. 8388607)
  105 named destinations out of 1000 (max. 500000)
  342 words of extra memory for PDF output out of 10000 (max. 10000000)
 
