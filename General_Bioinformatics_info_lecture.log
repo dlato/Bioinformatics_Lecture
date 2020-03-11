@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.3.4)  11 MAR 2020 19:20
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.3.4)  11 MAR 2020 19:22
 entering extended mode
 **./General_Bioinformatics_info_lecture.tex
 (General_Bioinformatics_info_lecture.tex
@@ -1848,49 +1848,32 @@ Package pdftex.def Info: ./bioinformatics.jpg  used on input line 338.
 ] [13
 
 ]
-<./HGP_ppl.jpg, id=319, 632.3625pt x 388.45125pt>
-File: ./HGP_ppl.jpg Graphic file (type jpg)
-<use ./HGP_ppl.jpg>
-Package pdftex.def Info: ./HGP_ppl.jpg  used on input line 393.
-(pdftex.def)             Requested size: 298.07155pt x 183.10556pt.
- [14
-
- <./HGP_ppl.jpg>] [15
-
-]
-<./hgp_covers.png, id=330, 853.1875pt x 547.04375pt>
+<./hgp_covers.png, id=319, 853.1875pt x 547.04375pt>
 File: ./hgp_covers.png Graphic file (type png)
 <use ./hgp_covers.png>
 Package pdftex.def Info: ./hgp_covers.png  used on input line 424.
 (pdftex.def)             Requested size: 276.559pt x 177.328pt.
- [16
+ [14
 
  <./hgp_covers.png>]
 File: ./hgp_covers.png Graphic file (type png)
 <use ./hgp_covers.png>
 Package pdftex.def Info: ./hgp_covers.png  used on input line 424.
 (pdftex.def)             Requested size: 276.559pt x 177.328pt.
- [17
+ [15
 
-] [18
+] [16
 
-]
-[19
-
-] [20
-
-] [21
-
-] [22
+] [17
 
 ]
-<./Bacillus_alignment_mauve.jpg, id=368, 1924.18875pt x 1079.03125pt>
+<./Bacillus_alignment_mauve.jpg, id=341, 1924.18875pt x 1079.03125pt>
 File: ./Bacillus_alignment_mauve.jpg Graphic file (type jpg)
 <use ./Bacillus_alignment_mauve.jpg>
 Package pdftex.def Info: ./Bacillus_alignment_mauve.jpg  used on input line 480
 .
 (pdftex.def)             Requested size: 307.28987pt x 172.31923pt.
- [23
+ [18
 
  <./Bacillus_alignment_mauve.jpg>]
 File: ./Bacillus_alignment_mauve.jpg Graphic file (type jpg)
@@ -1898,22 +1881,22 @@ File: ./Bacillus_alignment_mauve.jpg Graphic file (type jpg)
 Package pdftex.def Info: ./Bacillus_alignment_mauve.jpg  used on input line 480
 .
 (pdftex.def)             Requested size: 307.28987pt x 172.31923pt.
- [24
+ [19
 
 ]
-<./linux_mauve.png, id=379, 694.39426pt x 511.31026pt>
+<./linux_mauve.png, id=353, 694.39426pt x 511.31026pt>
 File: ./linux_mauve.png Graphic file (type png)
 <use ./linux_mauve.png>
 Package pdftex.def Info: ./linux_mauve.png  used on input line 491.
 (pdftex.def)             Requested size: 261.19826pt x 192.33382pt.
- [25
+ [20
 
- <./linux_mauve.png>] [26
+ <./linux_mauve.png>] [21
 
-] [27
+] [22
 
 ]
-<./figs/plague_no_model.png, id=396, 510.40688pt x 375.65344pt>
+<./figs/plague_no_model.png, id=369, 510.40688pt x 375.65344pt>
 File: ./figs/plague_no_model.png Graphic file (type png)
 <use ./figs/plague_no_model.png>
 Package pdftex.def Info: ./figs/plague_no_model.png  used on input line 524.
@@ -1922,10 +1905,10 @@ Package pdftex.def Info: ./figs/plague_no_model.png  used on input line 524.
 Overfull \vbox (7.74438pt too high) detected at line 524
  []
 
-[28
+[23
 
  <./figs/plague_no_model.png>]
-<./modeling_plague.png, id=402, 605.26125pt x 430.60875pt>
+<./modeling_plague.png, id=375, 605.26125pt x 430.60875pt>
 File: ./modeling_plague.png Graphic file (type png)
 <use ./modeling_plague.png>
 Package pdftex.def Info: ./modeling_plague.png  used on input line 536.
@@ -1934,10 +1917,10 @@ Package pdftex.def Info: ./modeling_plague.png  used on input line 536.
 Overfull \vbox (5.09714pt too high) detected at line 536
  []
 
-[29
+[24
 
  <./modeling_plague.png>]
-<./modeling_ecology.jpg, id=410, 444.91219pt x 347.79938pt>
+<./modeling_ecology.jpg, id=383, 444.91219pt x 347.79938pt>
 File: ./modeling_ecology.jpg Graphic file (type jpg)
 <use ./modeling_ecology.jpg>
 Package pdftex.def Info: ./modeling_ecology.jpg  used on input line 548.
@@ -1946,24 +1929,24 @@ Package pdftex.def Info: ./modeling_ecology.jpg  used on input line 548.
 Overfull \vbox (1.59479pt too high) detected at line 548
  []
 
-[30
+[25
 
- <./modeling_ecology.jpg>] [31
+ <./modeling_ecology.jpg>] [26
 
-] [32
+] [27
 
-] [33
+] [28
 
-] [34
+] [29
 
 ]
-<./bac_genome_reorg_diagrams/HGT_pic.png, id=437, 722.7pt x 542.025pt>
+<./bac_genome_reorg_diagrams/HGT_pic.png, id=410, 722.7pt x 542.025pt>
 File: ./bac_genome_reorg_diagrams/HGT_pic.png Graphic file (type png)
 <use ./bac_genome_reorg_diagrams/HGT_pic.png>
 Package pdftex.def Info: ./bac_genome_reorg_diagrams/HGT_pic.png  used on input
  line 598.
 (pdftex.def)             Requested size: 108.31995pt x 81.23407pt.
- [35
+ [30
 
  <./bac_genome_reorg_diagrams/HGT_pic.png>]
 File: ./bac_genome_reorg_diagrams/HGT_pic.png Graphic file (type png)
@@ -1971,7 +1954,7 @@ File: ./bac_genome_reorg_diagrams/HGT_pic.png Graphic file (type png)
 Package pdftex.def Info: ./bac_genome_reorg_diagrams/HGT_pic.png  used on input
  line 598.
 (pdftex.def)             Requested size: 108.31995pt x 81.23407pt.
- [36
+ [31
 
 ]
 File: ./bac_genome_reorg_diagrams/HGT_pic.png Graphic file (type png)
@@ -1979,13 +1962,13 @@ File: ./bac_genome_reorg_diagrams/HGT_pic.png Graphic file (type png)
 Package pdftex.def Info: ./bac_genome_reorg_diagrams/HGT_pic.png  used on input
  line 617.
 (pdftex.def)             Requested size: 108.31995pt x 81.23407pt.
-<./bac_genome_reorg_diagrams/duplication_pic.jpg, id=449, 722.7pt x 542.025pt>
+<./bac_genome_reorg_diagrams/duplication_pic.jpg, id=423, 722.7pt x 542.025pt>
 File: ./bac_genome_reorg_diagrams/duplication_pic.jpg Graphic file (type jpg)
 <use ./bac_genome_reorg_diagrams/duplication_pic.jpg>
 Package pdftex.def Info: ./bac_genome_reorg_diagrams/duplication_pic.jpg  used 
 on input line 617.
 (pdftex.def)             Requested size: 722.69823pt x 542.02367pt.
- [37
+ [32
 
  <./bac_genome_reorg_diagrams/duplication_pic.jpg>]
 File: ./bac_genome_reorg_diagrams/HGT_pic.png Graphic file (type png)
@@ -1993,7 +1976,7 @@ File: ./bac_genome_reorg_diagrams/HGT_pic.png Graphic file (type png)
 Package pdftex.def Info: ./bac_genome_reorg_diagrams/HGT_pic.png  used on input
  line 640.
 (pdftex.def)             Requested size: 108.31995pt x 81.23407pt.
-<./bac_genome_reorg_diagrams/rearrangements_pic.jpg, id=456, 722.7pt x 542.025p
+<./bac_genome_reorg_diagrams/rearrangements_pic.jpg, id=429, 722.7pt x 542.025p
 t>
 File: ./bac_genome_reorg_diagrams/rearrangements_pic.jpg Graphic file (type jpg
 )
@@ -2006,42 +1989,42 @@ File: ./bac_genome_reorg_diagrams/duplication_pic.jpg Graphic file (type jpg)
 Package pdftex.def Info: ./bac_genome_reorg_diagrams/duplication_pic.jpg  used 
 on input line 640.
 (pdftex.def)             Requested size: 722.69823pt x 542.02367pt.
-<./bac_genome_reorg_diagrams/inversion_pic.jpg, id=457, 722.7pt x 542.025pt>
+<./bac_genome_reorg_diagrams/inversion_pic.jpg, id=430, 722.7pt x 542.025pt>
 File: ./bac_genome_reorg_diagrams/inversion_pic.jpg Graphic file (type jpg)
 <use ./bac_genome_reorg_diagrams/inversion_pic.jpg>
 Package pdftex.def Info: ./bac_genome_reorg_diagrams/inversion_pic.jpg  used on
  input line 640.
 (pdftex.def)             Requested size: 722.69823pt x 542.02367pt.
 
-[38
+[33
 
  <./bac_genome_reorg_diagrams/rearrangements_pic.jpg> <./bac_genome_reorg_diagr
 ams/inversion_pic.jpg>]
-<./Spatial_genome_trends_graphs/ess_graph.pdf, id=463, 505.89pt x 505.89pt>
+<./Spatial_genome_trends_graphs/ess_graph.pdf, id=436, 505.89pt x 505.89pt>
 File: ./Spatial_genome_trends_graphs/ess_graph.pdf Graphic file (type pdf)
 <use ./Spatial_genome_trends_graphs/ess_graph.pdf>
 Package pdftex.def Info: ./Spatial_genome_trends_graphs/ess_graph.pdf  used on 
 input line 661.
 (pdftex.def)             Requested size: 102.94182pt x 102.93619pt.
-<./Spatial_genome_trends_graphs/cons_graph.pdf, id=464, 505.89pt x 505.89pt>
+<./Spatial_genome_trends_graphs/cons_graph.pdf, id=437, 505.89pt x 505.89pt>
 File: ./Spatial_genome_trends_graphs/cons_graph.pdf Graphic file (type pdf)
 <use ./Spatial_genome_trends_graphs/cons_graph.pdf>
 Package pdftex.def Info: ./Spatial_genome_trends_graphs/cons_graph.pdf  used on
  input line 661.
 (pdftex.def)             Requested size: 102.94182pt x 102.93619pt.
-<./Spatial_genome_trends_graphs/mut_graph.pdf, id=465, 505.89pt x 505.89pt>
+<./Spatial_genome_trends_graphs/mut_graph.pdf, id=438, 505.89pt x 505.89pt>
 File: ./Spatial_genome_trends_graphs/mut_graph.pdf Graphic file (type pdf)
 <use ./Spatial_genome_trends_graphs/mut_graph.pdf>
 Package pdftex.def Info: ./Spatial_genome_trends_graphs/mut_graph.pdf  used on 
 input line 661.
 (pdftex.def)             Requested size: 102.94182pt x 102.93619pt.
-<./Spatial_genome_trends_graphs/exp_graph.pdf, id=466, 505.89pt x 505.89pt>
+<./Spatial_genome_trends_graphs/exp_graph.pdf, id=439, 505.89pt x 505.89pt>
 File: ./Spatial_genome_trends_graphs/exp_graph.pdf Graphic file (type pdf)
 <use ./Spatial_genome_trends_graphs/exp_graph.pdf>
 Package pdftex.def Info: ./Spatial_genome_trends_graphs/exp_graph.pdf  used on 
 input line 661.
 (pdftex.def)             Requested size: 102.94182pt x 102.93619pt.
- [39
+ [34
 
  <./Spatial_genome_trends_graphs/ess_graph.pdf> <./Spatial_genome_trends_graphs
 /cons_graph.pdf> <./Spatial_genome_trends_graphs/mut_graph.pdf> <./Spatial_geno
@@ -2066,7 +2049,7 @@ File: ./Spatial_genome_trends_graphs/exp_graph.pdf Graphic file (type pdf)
 Package pdftex.def Info: ./Spatial_genome_trends_graphs/exp_graph.pdf  used on 
 input line 661.
 (pdftex.def)             Requested size: 102.94182pt x 102.93619pt.
- [40
+ [35
 
 ]
 File: ./Spatial_genome_trends_graphs/mut_graph.pdf Graphic file (type pdf)
@@ -2079,10 +2062,10 @@ File: ./Spatial_genome_trends_graphs/exp_graph.pdf Graphic file (type pdf)
 Package pdftex.def Info: ./Spatial_genome_trends_graphs/exp_graph.pdf  used on 
 input line 682.
 (pdftex.def)             Requested size: 102.94182pt x 102.93619pt.
- [41
+ [36
 
 ]
-<./figs/6_strep_strains_mauve_aln_pic_13Jan20.jpg, id=502, 765.86125pt x 729.72
+<./figs/6_strep_strains_mauve_aln_pic_13Jan20.jpg, id=475, 765.86125pt x 729.72
 626pt>
 File: ./figs/6_strep_strains_mauve_aln_pic_13Jan20.jpg Graphic file (type jpg)
 <use ./figs/6_strep_strains_mauve_aln_pic_13Jan20.jpg>
@@ -2093,15 +2076,15 @@ Package pdftex.def Info: ./figs/6_strep_strains_mauve_aln_pic_13Jan20.jpg  used
 Overfull \vbox (14.74257pt too high) detected at line 690
  []
 
-[42
+[37
 
  <./figs/6_strep_strains_mauve_aln_pic_13Jan20.jpg>]
-<strep_pic.png, id=508, 1058.7555pt x 230.66174pt>
+<strep_pic.png, id=482, 1058.7555pt x 230.66174pt>
 File: strep_pic.png Graphic file (type png)
 <use strep_pic.png>
 Package pdftex.def Info: strep_pic.png  used on input line 713.
 (pdftex.def)             Requested size: 307.28987pt x 66.94649pt.
- [43
+ [38
 
  <./strep_pic.png>]
 File: ./Spatial_genome_trends_graphs/mut_graph.pdf Graphic file (type pdf)
@@ -2114,7 +2097,7 @@ File: ./Spatial_genome_trends_graphs/exp_graph.pdf Graphic file (type pdf)
 Package pdftex.def Info: ./Spatial_genome_trends_graphs/exp_graph.pdf  used on 
 input line 734.
 (pdftex.def)             Requested size: 99.86826pt x 99.86392pt.
-<./Spatial_genome_trends_graphs/sub_results_graph.pdf, id=517, 505.89pt x 505.8
+<./Spatial_genome_trends_graphs/sub_results_graph.pdf, id=490, 505.89pt x 505.8
 9pt>
 File: ./Spatial_genome_trends_graphs/sub_results_graph.pdf Graphic file (type p
 df)
@@ -2122,7 +2105,7 @@ df)
 Package pdftex.def Info: ./Spatial_genome_trends_graphs/sub_results_graph.pdf  
 used on input line 734.
 (pdftex.def)             Requested size: 99.86826pt x 99.86392pt.
-<./Spatial_genome_trends_graphs/exp_results_graph.pdf, id=518, 505.89pt x 505.8
+<./Spatial_genome_trends_graphs/exp_results_graph.pdf, id=491, 505.89pt x 505.8
 9pt>
 File: ./Spatial_genome_trends_graphs/exp_results_graph.pdf Graphic file (type p
 df)
@@ -2134,7 +2117,7 @@ used on input line 734.
 Overfull \vbox (0.96976pt too high) detected at line 734
  []
 
-[44
+[39
 
  <./Spatial_genome_trends_graphs/sub_results_graph.pdf> <./Spatial_genome_trend
 s_graphs/exp_results_graph.pdf>]
@@ -2164,10 +2147,10 @@ used on input line 734.
 Overfull \vbox (0.96976pt too high) detected at line 734
  []
 
-[45
+[40
 
 ]
-<./comp_bio.png, id=539, 646.8165pt x 505.89pt>
+<./comp_bio.png, id=512, 646.8165pt x 505.89pt>
 File: ./comp_bio.png Graphic file (type png)
 <use ./comp_bio.png>
 Package pdftex.def Info: ./comp_bio.png  used on input line 741.
@@ -2176,25 +2159,25 @@ Package pdftex.def Info: ./comp_bio.png  used on input line 741.
 Overfull \vbox (0.83273pt too high) detected at line 741
  []
 
-[46
+[41
 
  <./comp_bio.png>]
-<./figs/marie_curie.png, id=545, 316.93407pt x 289.08pt>
+<./figs/marie_curie.png, id=518, 316.93407pt x 289.08pt>
 File: ./figs/marie_curie.png Graphic file (type png)
 <use ./figs/marie_curie.png>
 Package pdftex.def Info: ./figs/marie_curie.png  used on input line 765.
 (pdftex.def)             Requested size: 107.55098pt x 98.09622pt.
-<./figs/katherine_johnson.jpg, id=546, 526.96875pt x 663.98062pt>
+<./figs/katherine_johnson.jpg, id=519, 526.96875pt x 663.98062pt>
 File: ./figs/katherine_johnson.jpg Graphic file (type jpg)
 <use ./figs/katherine_johnson.jpg>
 Package pdftex.def Info: ./figs/katherine_johnson.jpg  used on input line 765.
 (pdftex.def)             Requested size: 84.50517pt x 106.47209pt.
-<./figs/fb.png, id=547, 148.8762pt x 149.358pt>
+<./figs/fb.png, id=520, 148.8762pt x 149.358pt>
 File: ./figs/fb.png Graphic file (type png)
 <use ./figs/fb.png>
 Package pdftex.def Info: ./figs/fb.png  used on input line 765.
 (pdftex.def)             Requested size: 99.86826pt x 100.19011pt.
-<./figs/insta.png, id=548, 137.7647pt x 140.02313pt>
+<./figs/insta.png, id=521, 137.7647pt x 140.02313pt>
 File: ./figs/insta.png Graphic file (type png)
 <use ./figs/insta.png>
 Package pdftex.def Info: ./figs/insta.png  used on input line 765.
@@ -2203,7 +2186,7 @@ Package pdftex.def Info: ./figs/insta.png  used on input line 765.
 Overfull \vbox (9.7083pt too high) detected at line 765
  []
 
-[47
+[42
 
  <./figs/marie_curie.png> <./figs/katherine_johnson.jpg> <./figs/fb.png> <./fig
 s/insta.png>]
@@ -2227,7 +2210,7 @@ Package pdftex.def Info: ./figs/insta.png  used on input line 765.
 Overfull \vbox (9.7083pt too high) detected at line 765
  []
 
-[48
+[43
 
 ]
 File: ./figs/marie_curie.png Graphic file (type png)
@@ -2250,7 +2233,7 @@ Package pdftex.def Info: ./figs/insta.png  used on input line 765.
 Overfull \vbox (9.7083pt too high) detected at line 765
  []
 
-[49
+[44
 
 ]
 File: ./figs/marie_curie.png Graphic file (type png)
@@ -2273,7 +2256,7 @@ Package pdftex.def Info: ./figs/insta.png  used on input line 765.
 Overfull \vbox (9.7083pt too high) detected at line 765
  []
 
-[50
+[45
 
 ]
 LaTeX Font Info:    External font `lmex10' loaded for size
@@ -2296,15 +2279,15 @@ LaTeX Font Info:    Font shape `OT1/lmss/m/it' in size <7> not available
 LaTeX Font Info:    Font shape `OT1/lmss/m/it' in size <5> not available
 (Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 782.
 
- [51
+ [46
 
 ]
-<./figs/qr_code.pdf, id=577, 505.89pt x 505.89pt>
+<./figs/qr_code.pdf, id=550, 505.89pt x 505.89pt>
 File: ./figs/qr_code.pdf Graphic file (type pdf)
 <use ./figs/qr_code.pdf>
 Package pdftex.def Info: ./figs/qr_code.pdf  used on input line 801.
 (pdftex.def)             Requested size: 92.1879pt x 92.18327pt.
- [52
+ [47
 
  <./figs/qr_code.pdf>]
 \tf@nav=\write9
@@ -2326,10 +2309,10 @@ Package rerunfilecheck Info: File `General_Bioinformatics_info_lecture.out' has
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 42119 strings out of 481311
- 982336 string characters out of 2908124
+ 42103 strings out of 481311
+ 982146 string characters out of 2908124
  1280971 words of memory out of 3000000
- 56637 multiletter control sequences out of 15000+200000
+ 56632 multiletter control sequences out of 15000+200000
  620727 words of font info for 107 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  65i,14n,108p,1642b,692s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -2347,10 +2330,10 @@ iKTeX 2.9/fonts/type1/public/lm/lmsso10.pfb><C:/Users/synch/AppData/Local/Progr
 ams/MiKTeX 2.9/fonts/type1/public/lm/lmsso8.pfb><C:/Users/synch/AppData/Local/P
 rograms/MiKTeX 2.9/fonts/type1/public/lm/lmsy10.pfb><C:/Users/synch/AppData/Loc
 al/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmtt10.pfb>
-Output written on General_Bioinformatics_info_lecture.pdf (52 pages, 4691602 by
+Output written on General_Bioinformatics_info_lecture.pdf (47 pages, 4525099 by
 tes).
 PDF statistics:
- 647 PDF objects out of 1000 (max. 8388607)
- 105 named destinations out of 1000 (max. 500000)
- 347 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 618 PDF objects out of 1000 (max. 8388607)
+ 95 named destinations out of 1000 (max. 500000)
+ 342 words of extra memory for PDF output out of 10000 (max. 10000000)
 
