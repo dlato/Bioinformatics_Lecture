@@ -17,7 +17,13 @@ theme_set(theme_bw()
                   panel.background = element_blank(), axis.line = element_line(colour = "#213862"))
 )
 
+library(qrcode)
 ##########################
+#create QR code for presentation
+pdf("./figs/qr_code.pdf")
+qrcode_gen('https://github.com/dlato/Bioinformatics_Lecture')
+dev.off()
+
 
 # cost of sequencing over the years
 #load in data

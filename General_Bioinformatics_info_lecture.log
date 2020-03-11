@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.3.4)  11 MAR 2020 18:53
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.3.4)  11 MAR 2020 19:02
 entering extended mode
 **./General_Bioinformatics_info_lecture.tex
 (General_Bioinformatics_info_lecture.tex
@@ -2298,9 +2298,15 @@ LaTeX Font Info:    Font shape `OT1/lmss/m/it' in size <5> not available
 
  [51
 
-] [52
-
 ]
+<./figs/qr_code.pdf, id=577, 505.89pt x 505.89pt>
+File: ./figs/qr_code.pdf Graphic file (type pdf)
+<use ./figs/qr_code.pdf>
+Package pdftex.def Info: ./figs/qr_code.pdf  used on input line 798.
+(pdftex.def)             Requested size: 92.1879pt x 92.18327pt.
+ [52
+
+ <./figs/qr_code.pdf>]
 \tf@nav=\write9
 \openout9 = `General_Bioinformatics_info_lecture.nav'.
 
@@ -2320,10 +2326,10 @@ Package rerunfilecheck Info: File `General_Bioinformatics_info_lecture.out' has
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 42113 strings out of 481311
- 982192 string characters out of 2908124
+ 42119 strings out of 481311
+ 982336 string characters out of 2908124
  1280971 words of memory out of 3000000
- 56632 multiletter control sequences out of 15000+200000
+ 56637 multiletter control sequences out of 15000+200000
  620727 words of font info for 107 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  65i,14n,108p,1642b,692s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -2341,10 +2347,10 @@ iKTeX 2.9/fonts/type1/public/lm/lmsso10.pfb><C:/Users/synch/AppData/Local/Progr
 ams/MiKTeX 2.9/fonts/type1/public/lm/lmsso8.pfb><C:/Users/synch/AppData/Local/P
 rograms/MiKTeX 2.9/fonts/type1/public/lm/lmsy10.pfb><C:/Users/synch/AppData/Loc
 al/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmtt10.pfb>
-Output written on General_Bioinformatics_info_lecture.pdf (52 pages, 4685313 by
+Output written on General_Bioinformatics_info_lecture.pdf (52 pages, 4691575 by
 tes).
 PDF statistics:
- 643 PDF objects out of 1000 (max. 8388607)
+ 647 PDF objects out of 1000 (max. 8388607)
  105 named destinations out of 1000 (max. 500000)
- 342 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 347 words of extra memory for PDF output out of 10000 (max. 10000000)
 

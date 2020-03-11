@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1583967368925.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "161496041",
+    "id" : "79F6835B",
+    "lastKnownWriteTime" : 1583967780,
+    "last_content_update" : 1583967780445,
+    "path" : "~/PhD/Bioinformatics_Lecture/bioinf_general_data_graphs.R",
+    "project_path" : "bioinf_general_data_graphs.R",
+    "properties" : {
+        "cursorPosition" : "27,0",
+        "scrollLine" : "12"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
