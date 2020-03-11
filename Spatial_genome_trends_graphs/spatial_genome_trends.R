@@ -144,13 +144,14 @@ essential <- ggplot(data=df_neg, aes(x=x, y=rev_y, group=1)) +
 )
 
 rev_y_subs <- c(5.5,5,4.5,4,3.5,3,2.5,2,1.5,1)
-exp_results <- ggplot(data=df_neg, aes(x=x, y=rev_y_subs, group=1)) +
+exp_results <- ggplot(data=df_neg, aes(x=x, y=rev_y, group=1)) +
   geom_line(color="#087E8B", size=4)+
   geom_line(color="#087E8B", size=2)+
   theme(plot.title = element_text(hjust = 0.5), 
         text = element_text(size=30)) +
   ggtitle("Gene Expression") +
   labs(x = "Genomic Position", y = "Expression") +
+  expand_limits(y = c(-5,20)) +
   theme(axis.text.x=element_blank(),
         axis.ticks.x=element_blank(),
         axis.text.y=element_blank(),
@@ -161,13 +162,14 @@ expression
 dev.off()
 
 
-sub_results <- ggplot(data=df_neg, aes(x=x, y=rev_y_subs, group=1)) +
+sub_results <- ggplot(data=df_neg, aes(x=x, y=rev_y, group=1)) +
   geom_line(color="#087E8B", size=4)+
   geom_line(color="#087E8B", size=2)+
   theme(plot.title = element_text(hjust = 0.5), 
         text = element_text(size=30)) +
   ggtitle(expression(paste(underline("Substitutions")))) +
   labs(x = "", y = "Number of Substitutions") +
+  expand_limits(y = c(-5,20)) +
   theme(axis.text.x=element_blank(),
         axis.ticks.x=element_blank(),
         axis.text.y=element_blank(),
@@ -175,6 +177,10 @@ sub_results <- ggplot(data=df_neg, aes(x=x, y=rev_y_subs, group=1)) +
   )
 pdf("sub_results_graph.pdf")
 sub_results
+dev.off()
+
+pdf("exp_results_graph.pdf")
+exp_results
 dev.off()
 
 pdf("exp_graph.pdf")
